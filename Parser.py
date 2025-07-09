@@ -4,7 +4,7 @@ from parsimonious.grammar import Grammar
 class Parser:
     def __init__( self ):
         self.markdown_grammar = Grammar(
-                r"""line_content        = image / link / wikilink / bold_italic_text / bold_text / italic_text
+        r"""line_content        = image / link / wikilink / bold_italic_text / bold_text / italic_text
 
             image               = "![" alt_text "](" uri ")"
             link                = "[" alt_text "](" uri ")"
