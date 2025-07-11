@@ -8,8 +8,8 @@
 - [x] Bold italic text
 - [x] Bold text
 - [x] Italic text
-- [ ] Progress bar (c)
+- [x] Progress bar (c)
+- [x] Wikilinks
 - [ ] Bullet list
 - [ ] Numbered list
 - [ ] Checkbox list
-- [ ] Wikilinks
