@@ -35,7 +35,7 @@ class Visitor( NodeVisitor ):
     def visit_link(self, node, children): return f'<a href="{children[3]}">{children[1]}</a>'
     def visit_wikilink(self, node, children): return f'<a href="{children[1]}">{children[1]}</a>'
     def visit_progress_bar(self, node, children): return f'<progress value="{children[1]}" max="{children[3]}">{children[1]}%</progress>'
-    def visit_bold_italic_text(self, node, children): return f'<b><i>{children[2]}</i></b>'
+    def visit_bold_italic_text(self, node, children): return f'<b><i>{children[1]}</i></b>'
     def visit_bold_text(self, node, children): return f'<b>{children[1]}</b>'
     def visit_italic_text(self, node, children): return f'<i>{children[1]}</i>'
 
