@@ -10,6 +10,11 @@
 - [x] Italic text
 - [x] Progress bar (c)
 - [x] Wikilinks
+- [ ] Heading 1
+- [ ] Heading 2
+- [ ] Heading 3
+- [ ] Blockquote
+- [ ] Codeblocks
 - [ ] Bullet list
 - [ ] Numbered list
 - [ ] Checkbox list
