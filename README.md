@@ -13,7 +13,7 @@
 - [x] Heading 1
 - [x] Heading 2
 - [x] Heading 3
-- [ ] Inline links
+- [x] Inline Formatting (wikilinks (with underscores), bold, bold&italic, italic, links)
 - [ ] Blockquote
 - [ ] Codeblocks
 - [ ] Bullet list
